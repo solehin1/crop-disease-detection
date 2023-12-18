@@ -29,3 +29,8 @@ Given the constraints of limited computational power, training a classification 
 
 * In the absence of leaf images, you can make use of the test images available in the `test-images` folder. 
 * Each image is labeled with its corresponding disease name, facilitating the verification of the model's effectiveness.
+
+## Contributors
+1.  Md Solehin Islam
+2.  M Mahmud Hasan
+3.  Sai Sarath Movva
