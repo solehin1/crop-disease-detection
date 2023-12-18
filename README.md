@@ -1,11 +1,11 @@
-# 🌱 Plant-Disease-Detection
+# 🌱 Crop-Disease-Detection
 
-Plant diseases are commonplace and arise from a multitude of factors, including fertilizer use, cultural practices, and environmental conditions. These diseases can significantly impact agricultural yields, consequently affecting the economy dependent on them.
+Crop diseases are commonplace and arise from a multitude of factors, including fertilizer use, cultural practices, and environmental conditions. These diseases can significantly impact agricultural yields, consequently affecting the economy dependent on them.
 
-Detecting plant diseases is crucial for farmers, and we have developed a Deep Learning-based Plant Disease Detection system. Our approach employs Convolutional Neural Networks (CNNs) to classify leaf images into two distinct categories. The CNN code is implemented using the PyTorch framework. We utilize the Plant Village dataset for training our model, enhancing its ability to accurately identify and categorize plant diseases. To access the dataset, please follow [this link](https://data.mendeley.com/datasets/tywbtsjrjv/1)
+Detecting crop diseases is crucial for farmers, and we have developed a Deep Learning-based crop Disease Detection system. Our approach employs Convolutional Neural Networks (CNNs) to classify leaf images into two distinct categories. The CNN code is implemented using the PyTorch framework. We utilize the Plant Village dataset for training our model, enhancing its ability to accurately identify and categorize crop diseases. 
 
 ## The DataSet
-We employed the widely recognized PlantVillage Dataset, which is publicly accessible and renowned. Comprising approximately 54,305 images of plant leaves, the dataset was curated under controlled environmental conditions. The diverse collection encompasses images of 14 distinct plant species.
+We employed the widely recognized PlantVillage Dataset, which is publicly accessible and renowned. Comprising approximately 54,305 images of crop leaves, the dataset was curated under controlled environmental conditions. The diverse collection encompasses images of 14 distinct crop species. To access the dataset, please follow [this link](https://data.mendeley.com/datasets/tywbtsjrjv/1)
 > **Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Bell Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, and Tomato.**
 
 Given the constraints of limited computational power, training a classification model locally on most standard machines becomes challenging. Consequently, we leverage the processing capabilities provided by Google Colab notebooks.
