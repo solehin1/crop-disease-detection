@@ -1,4 +1,4 @@
-# Plant-Disease-Detection
+# 🌱 Plant-Disease-Detection
 
 Plant diseases are commonplace and arise from a multitude of factors, including fertilizer use, cultural practices, and environmental conditions. These diseases can significantly impact agricultural yields, consequently affecting the economy dependent on them.
 
